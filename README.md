@@ -2,6 +2,8 @@
 
 Prototype foundation for an AI-native IDE built around sovereign identity, capability-bound execution, and signed provenance.
 
+<img width="1355" height="898" alt="image" src="https://github.com/user-attachments/assets/f1175888-378b-465a-8af2-fb8908a5d84b" />
+
 ## Product thesis
 
 Most AI IDEs compete on editor ergonomics and model integration. This prototype starts from a different premise:
